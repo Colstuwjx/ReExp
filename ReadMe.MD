@@ -3,6 +3,7 @@
 字符是计算机软件处理文字时的最基本单位，而文本是一个长串的字符序列，由此产生的匹配、查找、搜索和替换的需求正是正则表达式的存在理由。
 
 参考: 
+
 http://deerchao.net/tutorials/regex/regex.htm
 
 http://blog.jobbole.com/65605/
