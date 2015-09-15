@@ -4,9 +4,13 @@
 
 参考: 
 http://deerchao.net/tutorials/regex/regex.htm
+
 http://blog.jobbole.com/65605/
+
 http://www.slideshare.net/jiyee/ss-44302128?from_action=save
+
 http://fxck.it/post/50558232873
+
 
 推荐书籍:
 <<  精通正则表达式 >>, Jeffrey E.F Freidl, O'Relly 电子工业出版社
